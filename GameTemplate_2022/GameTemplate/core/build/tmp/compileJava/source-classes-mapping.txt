@@ -1,0 +1,21 @@
+pt/uma/arq/entities/SmallShip.java
+ pt.uma.arq.entities.SmallShip
+pt/uma/arq/game/BackgroundManagement.java
+ pt.uma.arq.game.BackgroundManagement
+pt/uma/arq/entities/MediumShip.java
+ pt.uma.arq.entities.MediumShip
+pt/uma/arq/entities/Ship.java
+ pt.uma.arq.entities.Ship
+pt/uma/arq/game/Animator.java
+ pt.uma.arq.game.Animator
+pt/uma/arq/entities/Laser.java
+ pt.uma.arq.entities.Laser
+pt/uma/arq/entities/BigShip.java
+ pt.uma.arq.entities.BigShip
+pt/uma/arq/entities/PlayerShip.java
+ pt.uma.arq.entities.PlayerShip
+pt/uma/arq/game/Game.java
+ pt.uma.arq.game.Game
+ pt.uma.arq.game.Game$1
+pt/uma/arq/entities/Fleet.java
+ pt.uma.arq.entities.Fleet
